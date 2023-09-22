@@ -2,3 +2,4 @@
 *
 venv
 .idea
+mysite/settings.py
